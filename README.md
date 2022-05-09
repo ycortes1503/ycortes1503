@@ -1,6 +1,6 @@
 # Hi there, I'm ✨ Yesica Cortés ✨
 
-- 🔭 I'm currently working on building projects to put into practice my skills as a Full Stack Developer.
+- 🔭 I'm currently working on building projects to put into practice my skills as a <b>Full Stack Developer</b>.
 - 💪 I’m looking forward to taking on new challenges.
 - 💬 Ask me about: <b>Java</b>, <b>ReactJS</b>, <b>Spring</b>.
 - 📫 How to reach me: [ycortes1503@gmail.com](mailto:ycortes1503@gmail.com)
