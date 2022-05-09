@@ -1,9 +1,10 @@
 # Hi there, I'm ✨ Yesica Cortés ✨
 
+- 🔭 I'm currently working on building projects to put into practice my skills as a Full Stack Developer.
 - 💪 I’m looking forward to taking on new challenges.
 - 💬 Ask me about: <b>Java</b>, <b>ReactJS</b>, <b>Spring</b>.
 - 📫 How to reach me: [ycortes1503@gmail.com](mailto:ycortes1503@gmail.com)
-- ⚡ Fun fact: I enjoy 🛼 and 📚
+- ⚡ Fun fact: I enjoy 🛼 and 📖
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ycortes1503&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
