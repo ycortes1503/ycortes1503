@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ycortes1503&theme=tokyionight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ycortes1503&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycortes1503&hide=issues,prs&count_private=true&show_icons=true&theme=tokyionight&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
+[![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycortes1503&hide=issues,prs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycortes1503&layout=compact&theme=tokyionight&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycortes1503&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
